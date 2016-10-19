@@ -4,6 +4,7 @@
 * 원저자 : [John Washam](https://github.com/jwasham)
 * 번역 : [BayMinimum](https://github.com/BayMinimum)
 * 아직 완전히 번역되지 않은 글입니다ㅠ 함께 번역에 참여해 주세요!
+
 ## 이 글은...
 
 웹 개발자(독학, 컴공 학위 없음)였던 필자가 구글 소프트웨어 엔지니어가 되기 위한 몇 달 간의 학습 계획이다.
@@ -11,7 +12,7 @@
 ![칠판에 코딩하기 - HBO 실리콘 밸리에서](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 이 길고 긴 목록은 **구글 코칭 노트** 에서 가져온 내용과 그 확장으로, 독자 여러분이 꼭 알아야 할 내용들이다.
-그리고 면접에 나올 수 있거나 문제를 푸는나 데 도움이 될수 있는 내용들도 아래에 적어 두었다. 많은 항목들은
+그리고 면접에 나올 수 있거나 문제를 푸는 데 도움이 될수 있는 내용들도 아래에 적어 두었다. 많은 항목들은
 Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" 에서 가져왔으며
 구글 코칭 노트의 단어들을 반영하기도 했다.
 
@@ -170,7 +171,7 @@ Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03
 - JavaScript
 - Ruby
 
-독자 여러분은 선택한 언어를 매우 편안하게 사용할 수 있어야 하고, 그 언어에 대한 지식이 풍부해야 한다.
+독자 여러분은 선택한 언어를 매우 편안하게 사용할 수 있어야 하고, 그 언어에 대한 풍부한 지식도 필요하다.
 
 선택에 대한 더 읽을거리:
 - http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/

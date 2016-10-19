@@ -5,7 +5,7 @@
 * 번역 : [BayMinimum](https://github.com/BayMinimum)
 * 아직 완전히 번역되지 않은 글입니다ㅠ 함께 번역에 참여해 주세요!
 
-## 이 글은...
+## 이 글은... <a name="what-is-it"/>
 
 웹 개발자(독학, 컴공 학위 없음)였던 필자가 구글 소프트웨어 엔지니어가 되기 위한 몇 달 간의 학습 계획이다.
 
@@ -34,7 +34,7 @@ Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03
 - [시작하기 전에...](#before-you-get-started)
 ---
 
-## 존재 이유
+## 존재 이유 <a name="why-use-it"/>
 
 나는 이 계획을 따르면서 구글 면접을 준비하고 있다. 컴퓨터 공학 전공이 아닌, 경제학 학위 소지자인 나는 1997년부터 웹, 서비스를 구축하고 스타트업을 시작해 왔다. 여기까지 매우 성공적인 길을 걸어왔지만, 구글에서 일하고 싶었다. 더 큰 생태계에서, 컴퓨터 시스템, 알고리즘 효율성, 데이터 구조 성능, 저수준 언어를 비롯하여 이것들이 어떻게 동작하는지를 제대로 이해하고 싶었다. 만약 독자 여러분이 이것들에 대해 아무것도 모른다면, 구글은 여러분을 채용하지 않을 것이다.
 
@@ -42,7 +42,7 @@ Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03
 
 하지만 이 계획을 따라 공부한 후에는 내가 채용될 것이라는 자신감을 가지고 있다. 긴 계획이다. 몇 달이 걸릴 것이다. 만약 독자 여러분이 이미 이런 것들에 익숙하다면 훨씬 적은 시간이 걸릴 것이다.
 
-## 사용 방법
+## 사용 방법 <a name="how-to-use-it"/>
 
 아래의 개요에 따라 순서대로 진행하면 된다.
 
@@ -71,13 +71,13 @@ Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03
 
 [GitHub식 마크다운에 대해 더 알아보기](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-## 구글구글 하게 해줄게
+## 구글구글 하게 해줄게 <a name="get-in-a-googley-mood"/>
 
 "[미래의 구글러 마크](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)"를 한두장 인쇄하여 주변에 붙여두고 항상 바라보자.
 
 [![미래의 구글러 마크](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
-## 필자는 취직했나요?
+## 필자는 취직했나요? <a name="did-i-get-the-job"/>
 
 아직 지원하지 않았습니다.
 
@@ -85,7 +85,7 @@ Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03
 
     추천해줘서 고마워요, JP.
 
-## 저와 함께 가요!
+## 저와 함께 가요! <a name="follow-along-with-me"/>
 
 저도 가는 중입니다. 제 블로그 ([GoogleyAsHeck.com](https://googleyasheck.com/))에서 함께 가요!
 
@@ -96,11 +96,11 @@ Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03
 
 ![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
-## 당신은 멍청하지 않습니다
+## 당신은 멍청하지 않습니다 <a name="dont-feel-you-arent-smart-enough"/>
 - 구글에서 일하는 엔지니어들은 분명 똑똑하지만, 꼭 구글에서 일한다고 해서 우리가 생각하는 것만큼 똑똑하지는 않을 수도 있어요!
 - [천재 프로그래머에 대한 오해](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
-## 구글에 대해
+## 구글에 대해 <a name="about-google"/>
 
 - [ ] 학생들을 위해 - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [ ] 검색의 동작원리:
@@ -117,7 +117,7 @@ Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03
 - [ ] [책: 구글은 어떻게 일하는가](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 - [ ] [Made by Google 발표 - 2016/10 (영상)](https://www.youtube.com/watch?v=q4y0KOeXViI)
 
-## 영상 자료에 대해
+## 영상 자료에 대해 <a name="about-video-resources"/>
 
 몇몇 영상은 MOOCs라 불리는 Coursera, EdX, or Lynda.com 강의를 수강해야만 볼 수 있다.
 가끔씩은 강좌가 아직 열리지 않아 영상을 보지 못하고, 두 달 정도 기다려야 할 때도 있다. Lynda.com 강좌는 무료가 아니다.
@@ -125,7 +125,7 @@ Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03
     강좌 동영상과 함께 사용할 수 있는, 언제나 공개되어 있는 무료 영상(유튜브 등)을 찾아주시면 감사하겠습니다.
     저는 대학 강좌 동영상을 사용하길 좋아합니다.
 
-## 면접 과정 & 면접 준비 전반
+## 면접 과정 & 면접 준비 전반 <a name="interview-process--general-interview-prep"/>
 
 - [ ] 영상:
     - [ ] [구글에서 일하는 방법: 후보자를 위한 도움말 (영상)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
@@ -156,7 +156,7 @@ Steve Yegge의 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03
         - [ ] [''빅 4에서 일자리 얻기 - 아마존, 페이스북, 구글, 마이크로스프트'' (영상)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
     - [ ] [구글 면접 탈락기](http://alexbowe.com/failing-at-google-interviews/)
 
-## 면접을 위한 언어 하나 선택
+## 면접을 위한 언어 하나 선택 <a name="pick-one-language-for-the-interview"/>
 
 이에 대해 쓴 짧은 글: [중요: 구글 면접을 위한 언어 하나 선택](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
 
